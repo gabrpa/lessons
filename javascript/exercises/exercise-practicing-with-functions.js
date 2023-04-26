@@ -1,3 +1,5 @@
+// Task 1
+
 function letterFinder(word, match) {
     for (var i = 0; i < word.length; i++) {
         if (word[i] == match) {

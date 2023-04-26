@@ -1,4 +1,5 @@
-/*
+// Task 1
+
 for (var i = 1; i <= 10; i++) {
     if (i == 1) {
         console.log("Gold Medal");
@@ -12,7 +13,8 @@ for (var i = 1; i <= 10; i++) {
     else
     console.log(i + "° place");
 }
-*/
+
+// Task 2
 
 var i = 1;
 

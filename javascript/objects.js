@@ -1,17 +1,17 @@
 // Object Literals
 
-/*
+
 var assistanteManager = {
     movement: 3,
     socialSkills: 30,
     streetSmarts: 30,
     health: 40
 }
-*/
+
 
 // Dot Notation
 
-/*
+
 assistanteManager.nextAchievement = "get promoted";
 
 var storeManager = {}
@@ -23,11 +23,11 @@ storeManager.specialAbility = "finding business opportunities";
 storeManager.greeting = "Let's make some money"
 
 console.log(storeManager);
-*/
+
 
 // Brackets Notation
 
-/*
+
 var house2 = {};
 house2["rooms"] = 4;
 house2['color'] = "pink";
@@ -35,13 +35,12 @@ house2['color'] = "pink";
 house2["number of doors"] = 4;
 // Additionally, I can add numbers (as the string data type) as property keys:
 house2["1985"] = 2023
-/*
-However, doing this is discouraged, 
-due to obvious reasons of having a property key as a number string not really conveying a lot of useful information.
+// However, doing this is discouraged, 
+// due to obvious reasons of having a property key as a number string not really conveying a lot of useful information.
 
 
 console.log(house2);
-*/
+
 
 /* Finally, 
 there's one really useful thing that bracket notation has but is not available in the dot notation:

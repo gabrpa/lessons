@@ -1,6 +1,6 @@
 // if & else statement
 
-/* var place = "third";
+var place = "third";
 
 if(place == "first") {
     console.log("Gold")
@@ -11,7 +11,7 @@ if(place == "first") {
 } else {
     console.log("No medal")
 }
-*/
+
 
 // switch statement
 

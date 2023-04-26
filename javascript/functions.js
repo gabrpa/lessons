@@ -1,6 +1,6 @@
 // Function without parameters
 
-/*
+
 function addTwoNums() {
     var a = 10;
     var b = 20;
@@ -9,7 +9,7 @@ function addTwoNums() {
 }
 
 addTwoNums();
-*/
+
 
 // Function with parameters
 

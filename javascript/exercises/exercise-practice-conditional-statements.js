@@ -1,6 +1,6 @@
 // else & if statements
 
-/* 
+
 var age = 80;
 if (age >=65) {
     console.log("You get your income from your pension")
@@ -11,7 +11,7 @@ if (age >=65) {
 } else {
     console.log("The value of the age is not numerical")
 }
-*/
+
 
 // switch statement
 
